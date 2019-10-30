@@ -1,0 +1,11 @@
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\bin\Debug\netcoreapp2.1\Extension_Methods.deps.json
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\bin\Debug\netcoreapp2.1\Extension_Methods.runtimeconfig.json
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\bin\Debug\netcoreapp2.1\Extension_Methods.runtimeconfig.dev.json
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\bin\Debug\netcoreapp2.1\Extension_Methods.dll
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\bin\Debug\netcoreapp2.1\Extension_Methods.pdb
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\obj\Debug\netcoreapp2.1\Extension_Methods.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\obj\Debug\netcoreapp2.1\Extension_Methods.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\obj\Debug\netcoreapp2.1\Extension_Methods.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\obj\Debug\netcoreapp2.1\Extension_Methods.AssemblyInfo.cs
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\obj\Debug\netcoreapp2.1\Extension_Methods.dll
+C:\Users\olive\source\repos\Extension_Methods\Extension_Methods\obj\Debug\netcoreapp2.1\Extension_Methods.pdb
